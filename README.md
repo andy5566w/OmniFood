@@ -28,6 +28,19 @@ https://www.jsdelivr.com/
 找到最新的jquery
 https://developers.google.com/speed/libraries/
 
+超cool animate for css
+EX:讓圖片或是文字跳動
+https://daneden.github.io/animate.css/
+
+icon生產器，包含iso android window
+https://realfavicongenerator.net/
+
+can optimize web to reduce img space by using this website below
+https://imagecompressor.com/
+
 以下都是jquery的plugin:
-1.one page scroll << this is awrsome
+1.one page scroll << this is awesome
 http://www.thepetedesign.com/demos/onepage_scroll_demo.html
+
+2. 右側會有提示訊息，超cool的效果,同時可以做到section在切換的時候有不同的效果
+http://imakewebthings.com/waypoints/
